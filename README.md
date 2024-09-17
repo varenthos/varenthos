@@ -1,4 +1,4 @@
-## Hi there 👋
+## Siemka! jestem ogyofcik69 👋
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
