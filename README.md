@@ -1,8 +1,3 @@
-## Siemka! jestem ogyofcik69 👋
-
-- 📫 How to reach me: ogxanterusiksx (discord)
-- 🔭 I’m currently working on Wkrotce...
-
 ## Languages and Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
