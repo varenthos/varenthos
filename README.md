@@ -4,6 +4,7 @@
 
 <br clear="both">
 <h3 align="center">🧒 About me</h3>
+siema jestem ogulnie to mega sigmom programuje od 3 lat i huj kurwa
 
 ###
 
