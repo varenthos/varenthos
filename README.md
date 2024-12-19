@@ -61,15 +61,6 @@
 
 ###
 
-<h3 align="center">🌱 What I'm Learning</h3>
-<p align="center">
-  Wciąż się uczę! Aktualnie zgłębiam tajniki technologii backendowych i systemów rozproszonych. 
-  Fascynuje mnie automatyzacja procesów przy użyciu Dockera i Kubernetes. Planuję także rozwinąć 
-  swoje umiejętności w Pythonie oraz wejść w świat sztucznej inteligencji i uczenia maszynowego. 💻🤖
-</p>
-
-###
-
 <h3 align="center">📫 How to Reach Me</h3>
 <p align="center">
   Jeśli chcesz się ze mną skontaktować, możesz mnie znaleźć tutaj:
@@ -87,7 +78,3 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
 </div>
-
-###
-
-<p align="center">Dzięki za odwiedziny! Mam nadzieję, że wpadniesz częściej. ✌️</p>
