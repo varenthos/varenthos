@@ -62,8 +62,6 @@
 ###
 
 <h3 align="center">📫 How to Reach Me</h3>
-<p align="center">
-  Jeśli chcesz się ze mną skontaktować, możesz mnie znaleźć tutaj:
 </p>
 <div align="center">
   <a href="https://github.com/XanterusX" target="_blank">
