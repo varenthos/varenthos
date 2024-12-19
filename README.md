@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey, i'm XanterusX!</h2>
+<h2 align="center">👋 Hey, i'm XanterusX!</h2>
 
 ###
 
