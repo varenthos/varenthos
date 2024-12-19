@@ -19,8 +19,6 @@
 ###
 
 <h3 align="center">⚒ Languages and Tools</h3>
-<p align="center">Oto zestaw narzędzi i technologii, z których korzystam na co dzień:</p>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
   <img width="12" />
