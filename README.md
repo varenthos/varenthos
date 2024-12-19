@@ -1,3 +1,9 @@
+<br clear="both">
+
+<h2 align="center">👋 Hey, i'm XanterusX!</h2>
+
+###
+
 <h3 align="center">⚒ Languages and Tools</h3>
 
 ###
@@ -39,3 +45,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
+
+###
+
+<p align="center"></p>
+
+###
