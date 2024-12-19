@@ -10,7 +10,6 @@
   Uwielbiam tworzyć nowe projekty, uczyć się nowych technologii i rozwijać swoje umiejętności. 
   W moim życiu programowanie to nie tylko praca, ale także sposób na realizację moich pasji. 😊
 </p>
-
 <p align="center">
   Jestem typowym sigmą – podchodzę do wyzwań z odwagą, determinacją i nutą kreatywności. 
   Programowanie traktuję jak sztukę, w której każda linia kodu ma swoje miejsce. Jeśli nie koduję, to pewnie eksploruję nowe technologie, oglądam tutoriale lub... po prostu chilluję na Discordzie z ekipą. 😎
